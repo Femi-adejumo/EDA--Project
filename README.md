@@ -8,10 +8,10 @@ The goal of this Exploratory Data Analysis (EDA) project is to investigate the c
 
 #### The project focus on:
 
-+Identifying the most significant factors contributing to churn.
-Exploring correlations between customer demographics, services, and churn behavior.
-Visualizing key insights to present a clear narrative on the drivers of churn.
-Providing actionable insights to reduce churn and improve customer retention.
+- Identifying the most significant factors contributing to churn.
++ Exploring correlations between customer demographics, services, and churn behavior.
++ Visualizing key insights to present a clear narrative on the drivers of churn.
+* Providing actionable insights to reduce churn and improve customer retention.
 
 #### The Data
 
